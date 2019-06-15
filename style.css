@@ -1,0 +1,36 @@
+body {
+    color: gray
+}
+
+.estiloBorde {
+    border-style: solid;
+}
+
+#titulo1 {
+    border-color: brown;
+    padding: 15px;
+    margin-bottom: 200px
+}
+#titulo2 {
+    border-color: green
+}
+#titulo3 {
+    border-color: blue;
+    padding: 25px;
+    margin-top: 50px
+
+}
+
+/* p {
+    color: green;
+    font-size: 20px;
+    font-style: italic
+}
+
+#parrafo2 {
+    color: blue;
+    font-style: normal
+} */
+/* .estiloGeneral {
+    color: yellow
+} */
