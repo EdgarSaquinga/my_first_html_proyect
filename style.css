@@ -4,7 +4,7 @@ body {
 
 .estiloBorde {
     border-style: solid;
-    margin-bottom: 100px;
+    margin-bottom: 25px;
     margin-top: 50px;
     margin-left: 100px;
     margin-right: 1500px;
@@ -12,7 +12,7 @@ body {
 }
 
 #titulo1 {
-    border-color: brown;
+    border-color: rgb(252, 3, 3);
     padding: 25px;
     
 }
@@ -23,7 +23,7 @@ body {
 #titulo3 {
     border-color: blue;
     padding: 25px;
-    margin-top: 100px;
+    margin-top: 50px;
     margin-bottom: 100px;
 
 }
@@ -33,10 +33,10 @@ body {
     margin-top: 50px;
     margin-left: 100px;
     margin-right: 1500px;
-    text-align: center;
+    
 }
 #parrafo2{
-    border-style: solid;
+    
     border-color: chartreuse;
     margin-bottom: 100px;
     margin-top: 50px;
@@ -45,6 +45,22 @@ body {
     text-align: center;
 } 
 
+
+/*#dPersonal{
+    border-style: solid;
+
+    
+   
+}
+
+/*.dPerosnal{
+    border-style: solid;
+    margin-bottom: 25px;
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-right: 1500px;
+
+}
 /*# parrafo2 { 
     color: blue;
     font-style: normal*/
