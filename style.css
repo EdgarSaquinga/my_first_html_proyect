@@ -8,6 +8,7 @@ body {
     margin-top: 50px;
     margin-left: 100px;
     margin-right: 1500px;
+    text-align: center;
     
 }
 
@@ -28,11 +29,13 @@ body {
 
 }
 #parrafo1{
+    width: 300px;
     border-style: solid;
     margin-bottom: 100px;
     margin-top: 50px;
-    margin-left: 100px;
-    margin-right: 1500px;
+    margin-left: 500px;
+    text-align: justify;
+   
     
 }
 #parrafo2{
@@ -44,8 +47,15 @@ body {
     margin-right: 1500px;
     text-align: center;
 } 
+#tt{
+    border-style: solid;
+    border-block-style: center;
+    width: 300px;
+    text-align: center;
+    margin-left: 500px;
+   
 
-
+}
 /*#dPersonal{
     border-style: solid;
 
